@@ -1,0 +1,33 @@
+
+body{
+    font-family: Tahoma;
+    margin-left: 450px;
+    background-color: white;
+}
+.box1{
+    background-color: #cbfff5;
+    margin-right: 200px;
+}
+
+.fig2{
+    padding-left: 200px
+}
+.wrapper1{
+    background-color: red1
+}
+.wrapper2{
+    background-color: green1
+}
+.wrapper3{
+    //background-color: black1
+}
+.wrapper4{
+    //background-color: yellow1
+}
+.line{
+    border-style: solid;
+    border-width: 1px;
+    border-color: floralwhite;
+    margin-left:50px;
+    margin-right: 300px;
+}
